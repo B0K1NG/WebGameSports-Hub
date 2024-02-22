@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebGameSports-Hub/static/css/main.b9a8c106.css",
+    "main.js": "/WebGameSports-Hub/static/js/main.67072255.js",
+    "index.html": "/WebGameSports-Hub/index.html",
+    "main.b9a8c106.css.map": "/WebGameSports-Hub/static/css/main.b9a8c106.css.map",
+    "main.67072255.js.map": "/WebGameSports-Hub/static/js/main.67072255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a8c106.css",
+    "static/js/main.67072255.js"
+  ]
+}
