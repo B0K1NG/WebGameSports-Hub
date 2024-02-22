@@ -1,0 +1,35 @@
+  @media only screen and (max-width: 1024px) and (min-width: 769px) {
+    .navbar h1 {
+        font-size: 25px;
+      }
+      .navbar a {
+          font-size: 20px;
+      }
+      .home h2 {
+        text-align: center;
+      }
+      .home p {
+        text-align: left;
+      }
+    }
+
+    @media only screen and (max-width: 768px) and (min-width: 481px) {
+        .navbar h1 {
+            font-size: 15px;
+          }
+          .navbar a {
+              font-size: 12px;
+          }
+        }
+
+        @media only screen and (max-width: 480px) {
+            .navbar h1 {
+                font-size: 15px;
+              }
+              .navbar a {
+                  font-size: 12px;
+              }
+              .home h2 {
+                text-align: center;
+              }
+            }
